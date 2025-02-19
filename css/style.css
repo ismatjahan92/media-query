@@ -1,0 +1,16 @@
+.images{
+	padding: 50px;
+}
+.container{
+	overflow: hidden;
+	width: 960px;
+}
+.img_item{
+	margin: 3px 0;
+	padding: 0 3px;
+	float: left;
+    width: 25%;
+}
+.img_item img{
+    width: 100%;
+}
